@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @suranjanM
-- 👀 Chess ProblemSolving Gaming
-- 🌱 HTML CSS JavaScript DSA(Java)
-- 💞️ Peer Coding
+- 👋 Hi, I’m @suranjanMAITY
+- 👀 Designing, ProblemSolving
+- 🌱 C, C++, Java, HTML, CSS, JavaScript, DataStructre and Algo, SQL
+- 💞️ Peer Coding, chess
 - 📫 suranjanmaity4@gmail.com
 
 <!---
