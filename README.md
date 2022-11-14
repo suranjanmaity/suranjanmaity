@@ -3,7 +3,7 @@
 - 🌱 C, C++, Java, HTML, CSS, JavaScript, DataStructre and Algo, SQL
 - 💞️ Peer Coding, chess
 - 📫 suranjanmaity4@gmail.com
-- Portfolio suranjanmaity.github.io
+- Portfolio https://suranjanmaity.github.io
 
 <!---
 suranjanmaity/suranjanmaity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
