@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suranjanMAITY
 - 👀 Designing, ProblemSolving
-- 🌱 C, C++, Java, HTML, CSS, JavaScript, DataStructre and Algo, SQL
+- 🌱 C, C++, Java, JDBC, Hibernate(with JPA), HTML, CSS, JavaScript, DataStructre and Algo, SQL
 - 💞️ Peer Coding, chess
 - 📫 suranjanmaity4@gmail.com
 - Portfolio https://suranjanmaity.github.io
