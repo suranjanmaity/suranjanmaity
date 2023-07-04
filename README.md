@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suranjanMAITY
 - 👀 Designing, Developing, ProblemSolving
 - 🌱 C, C++, Java, JDBC, Hibernate(with JPA), Servlet(JSP), Spring Boot, HTML, CSS, JavaScript, React.js, Tailwind CSS, DataStructre and Algo, SQL
-- 💞️ Peer Coding, chess
+- 💞️ Peer Coding, chess, pool
 - 📫 suranjanmaity4@gmail.com
 - Portfolio https://suranjanmaity.github.io
 
